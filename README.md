@@ -21,7 +21,7 @@
 - Coding for fun & learning new tech
 - Math puzzles & logic games
 
-## 📫 Get in Touch
+## 📫 Contacts
 
 - [LinkedIn](https://www.linkedin.com/in/lukas-anell-8249b9311/)
 - More links coming soon!
