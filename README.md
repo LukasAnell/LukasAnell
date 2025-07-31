@@ -17,7 +17,7 @@
 
 ## 🎮 Hobbies
 
-- Gaming: League of Legends, Teamfight Tactics, Trackmania, Rocket League
+- Gaming: League of Legends, Factorio, Teamfight Tactics, Trackmania, Rocket League
 - Coding for fun & learning new tech
 - Math puzzles & logic games
 
