@@ -5,7 +5,7 @@
 ## About Me
 
 - **Education**: Data Science @ Purdue University
-- **Languages**: Python, Java, Kotlin, C++, HTML/CSS
+- **Languages**: Python, Java, Kotlin, C++, HTML/CSS/JS
 
 ---
 
