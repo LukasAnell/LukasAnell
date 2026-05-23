@@ -11,8 +11,10 @@
 
 ## Projects
 
+- **AoC**: Solutions to different years of the Advent of Code in several different languages, also including utility classes I use to help with solutions. Always a work-in-progress.
 - **CameraDynamics**: Computational photography and camera modeling.
-- **Advent of Code**: Solutions to different years of AoC in several different languages, also including utility classes I use to help with solutions. Always a work-in-progress.
+- **mini-database**: Relational database.
+- **social-network**: Social network engine. 
 
 ---
 
